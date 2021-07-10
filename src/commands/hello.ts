@@ -29,3 +29,5 @@ hello world from ./src/hello.ts!
     }
   }
 }
+
+// https://stackoverflow.com/questions/41037042/nodejs-wait-for-exec-in-function
